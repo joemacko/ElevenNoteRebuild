@@ -76,9 +76,9 @@ namespace ElevenNote.Services
             }
         }
 
-        public object GetNoteById(int id)
-        {
-            throw new NotImplementedException();
-        }
+        //public object GetNoteById(int id)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }
